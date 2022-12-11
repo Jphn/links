@@ -1,16 +1,16 @@
 [
 	{
-		"icon": "",
+		"icon": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
 		"href": "https://www.instagram.com/jopee_l/",
 		"label": "Instagram"
 	},
 	{
-		"icon": "",
+		"icon": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
 		"href": "https://www.linkedin.com/in/jphn75179216/",
 		"label": "Linkedin"
 	},
 	{
-		"icon": "",
+		"icon": "https://cdn-icons-png.flaticon.com/512/666/666162.png",
 		"href": "mailto:joaopedroholandaneves@gmail.com",
 		"label": "Mail"
 	}
