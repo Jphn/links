@@ -1,23 +1,17 @@
 [
 	{
-		"link": {
-			"icon": "",
-			"href": "https://www.instagram.com/jopee_l/",
-			"label": "Instagram"
-		}
+		"icon": "",
+		"href": "https://www.instagram.com/jopee_l/",
+		"label": "Instagram"
 	},
 	{
-		"link": {
-			"icon": "",
-			"href": "https://www.linkedin.com/in/jphn75179216/",
-			"label": "Linkedin"
-		}
+		"icon": "",
+		"href": "https://www.linkedin.com/in/jphn75179216/",
+		"label": "Linkedin"
 	},
 	{
-		"link": {
-			"icon": "",
-			"href": "mailto:joaopedroholandaneves@gmail.com",
-			"label": "Mail"
-		}
+		"icon": "",
+		"href": "mailto:joaopedroholandaneves@gmail.com",
+		"label": "Mail"
 	}
 ]
